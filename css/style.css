@@ -1,7 +1,42 @@
-.a-section, .footer {
+.a-section, 
+.footer {
     background-color: #1f2937;
 }
 
-.d-popup {
+.c-section {
+    background-color: #e5e7eb;
+}
+
+.d-popup,
+button {
     background-color: #3882f6;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+li {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.title {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.b-title {
+    font-size: 36px;
+    font-weight: bolder;
+    columns: #1f2937;
+}
+
+.c-section p {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
 }
